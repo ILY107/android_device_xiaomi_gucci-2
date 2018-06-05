@@ -264,8 +264,8 @@ void init_target_properties()
     }
 
     /* Unified description and fingerprint for now */
-    property_set("ro.build.description", "gucci-user 5.1.1 LMY47V 6.1.28 release-keys");
-    property_set("ro.build.fingerprint", "Xiaomi/gucci/gucci:5.1.1/LMY47V/6.1.28:user/release-keys");
+    property_set("ro.build.description", "gucci-user 4.4 KHKMICK 6.1.28 release-keys");
+    property_set("ro.build.fingerprint", "Xiaomi/HM NOTE 1S/gucci:4.4.4/KHKMICK/6.1.28:user/release-keys");
 
     ERROR("Setup %s properties done!\n", board_id);
 
